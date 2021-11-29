@@ -1,2 +1,1 @@
-# Self-game-5
-yes
+# Zombie-Shooter-stage-1
